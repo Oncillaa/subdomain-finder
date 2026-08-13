@@ -1,0 +1,17 @@
+[
+  {
+    "fqdn": "autodiscover.tzkd71.ru",
+    "ip": "77.222.41.171",
+    "subdomain": "autodiscover",
+    "source": "dns_bruteforce",
+    "http": {
+      "status_code": 403,
+      "server": "nginx",
+      "title": "403 Forbidden",
+      "content_type": "text/html; charset=iso-8859-1",
+      "content_length": 319,
+      "final_url": "https://autodiscover.tzkd71.ru/",
+      "redirect_chain": []
+    }
+  }
+]
